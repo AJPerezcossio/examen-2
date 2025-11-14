@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\context\\appdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\preparacionexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\preparacionexamen.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\dtos\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\dtos\\productoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\dtos\\productoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\dtos\\proveedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\dtos\\categoriadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\controllers\\proveedorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\migrations\\20251113234521_createproductostables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\migrations\\20251113234521_createproductostables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|d:\\univalle\\preparacionexamen\\preparacionexamen\\preparacionexamen\\migrations\\20251113234433_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{694D4E21-7CD0-40DD-BFBE-67271A367FAA}|PreparacionExamen\\PreparacionExamen.csproj|solutionrelative:preparacionexamen\\migrations\\20251113234433_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\appsettings.json",
+              "RelativeDocumentMoniker": "PreparacionExamen\\appsettings.json",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\appsettings.json",
+              "RelativeToolTip": "PreparacionExamen\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T23:35:51.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProveedorDto.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProveedorDto.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Dtos\\ProveedorDto.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProveedorDto.cs",
+              "RelativeToolTip": "PreparacionExamen\\Dtos\\ProveedorDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:30:45.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaDto.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\CategoriaDto.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Dtos\\CategoriaDto.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\CategoriaDto.cs",
+              "RelativeToolTip": "PreparacionExamen\\Dtos\\CategoriaDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:29:57.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoResponseDto.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProductoResponseDto.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Dtos\\ProductoResponseDto.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProductoResponseDto.cs",
+              "RelativeToolTip": "PreparacionExamen\\Dtos\\ProductoResponseDto.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:28:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Dtos\\ProductoDto.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Dtos\\ProductoDto.cs",
+              "RelativeToolTip": "PreparacionExamen\\Dtos\\ProductoDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:27:48.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PreparacionExamen.csproj",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj",
+              "RelativeDocumentMoniker": "PreparacionExamen\\PreparacionExamen.csproj",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen.csproj",
+              "RelativeToolTip": "PreparacionExamen\\PreparacionExamen.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T23:22:05.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251113234521_CreateProductosTables.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Migrations\\20251113234521_CreateProductosTables.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Migrations\\20251113234521_CreateProductosTables.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Migrations\\20251113234521_CreateProductosTables.cs",
+              "RelativeToolTip": "PreparacionExamen\\Migrations\\20251113234521_CreateProductosTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:45:21.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Program.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Program.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Program.cs",
+              "RelativeToolTip": "PreparacionExamen\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:12:50.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContex.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Context\\AppDbContex.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Context\\AppDbContex.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Context\\AppDbContex.cs",
+              "RelativeToolTip": "PreparacionExamen\\Context\\AppDbContex.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:52:18.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251113234433_InitialCreate.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Migrations\\20251113234433_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Migrations\\20251113234433_InitialCreate.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Migrations\\20251113234433_InitialCreate.cs",
+              "RelativeToolTip": "PreparacionExamen\\Migrations\\20251113234433_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:44:33.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProveedoresController.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\ProveedoresController.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Controllers\\ProveedoresController.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\ProveedoresController.cs",
+              "RelativeToolTip": "PreparacionExamen\\Controllers\\ProveedoresController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:33:11.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Controllers\\CategoriasController.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "PreparacionExamen\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:32:31.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Models\\Categoria.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Models\\Categoria.cs",
+              "RelativeToolTip": "PreparacionExamen\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:19:23.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Controllers\\ProductoController.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "PreparacionExamen\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAwBAAAAAAAAAAAAAAwBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:12:01.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Models\\Producto.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Models\\Producto.cs",
+              "RelativeToolTip": "PreparacionExamen\\Models\\Producto.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T23:09:26.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PreparacionExamen\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\univalle\\PreparacionExamen\\PreparacionExamen\\PreparacionExamen\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PreparacionExamen\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:42:09.039Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
